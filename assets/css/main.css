@@ -3515,3 +3515,7 @@ li {
 .achievement-item{
   padding: 16px;
 }
+.hero-description{
+text-size:20px;
+  color:black;
+}
