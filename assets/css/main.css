@@ -3516,6 +3516,6 @@ li {
   padding: 16px;
 }
 .hero-description{
-text-size:100px;
-  color:black;
+font-weight: 600;
+color: #000;
 }
