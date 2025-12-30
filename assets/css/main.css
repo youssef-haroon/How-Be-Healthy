@@ -966,7 +966,7 @@ section,
   color: var(--heading-color);
 }
 
-.hero .hero-content .hero-title {
+.hero .hero-content hero-title .hero-description {
   font-size: 4rem;
   font-weight: 600;
   line-height: 1.1;
@@ -976,20 +976,20 @@ section,
 }
 
 @media (max-width: 992px) {
-  .hero .hero-content .hero-title {
+  .hero .hero-content hero-title .hero-description {
     font-size: 3.5rem;
   }
 }
 
 @media (max-width: 768px) {
-  .hero .hero-content .hero-title {
+  .hero .hero-content hero-title .hero-description {
     font-size: 2.8rem;
     margin-bottom: 20px;
   }
 }
 
 @media (max-width: 576px) {
-  .hero .hero-content .hero-title {
+  .hero .hero-content hero-title .hero-description {
     font-size: 2.2rem;
   }
 }
